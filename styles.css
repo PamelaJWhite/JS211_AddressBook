@@ -1,0 +1,9 @@
+
+.display {
+    display: block;
+    background-color: blueviolet
+}
+
+.noDisplay {
+    display: none;
+}
